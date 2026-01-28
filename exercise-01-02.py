@@ -1,1 +1,1 @@
-# Complete pull, commit and push
+# Complete pull, commit and push (git commands)
